@@ -1,0 +1,5 @@
+.DS_Store
+config.fish # for privacy/security?
+fish_history
+fish_read_history
+fishd.*

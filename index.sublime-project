@@ -1,0 +1,27 @@
+{
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"folders": [
+		{
+			"name": ".",
+			"path": ".",
+			"file_exclude_patterns": ["*_history", "fishd.*"],
+			"folder_exclude_patterns": ["*"]
+		},
+		{
+			"name": "./completions",
+			"path": "./completions",
+			"file_exclude_patterns": []
+		},
+		{
+			"name": "./listeners",
+			"path": "./listeners",
+			"file_exclude_patterns": []
+		},
+		{
+			"name": "./functions",
+			"path": "./functions",
+			"file_exclude_patterns": []
+		}
+	]
+}
